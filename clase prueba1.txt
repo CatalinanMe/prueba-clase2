@@ -1,0 +1,4 @@
+esto es una clase de prueba
+primera linea de texto
+asd
+qwerty
